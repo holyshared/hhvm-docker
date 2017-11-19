@@ -2,5 +2,6 @@
 
 HHVM && Composer environments
 
-* HHVM 3.22.0
+* HHVM 3.23.x latest versoin
+* HHVM 3.21.x lts version
 * composer
