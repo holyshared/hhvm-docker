@@ -2,7 +2,7 @@
 
 HHVM && Composer environments
 
-* Ubuntu 17.10
-* HHVM 3.25.x latest versoin
+* Ubuntu 18.04
+* HHVM 3.26.x latest versoin
 * HHVM 3.24.x lts version
 * composer
